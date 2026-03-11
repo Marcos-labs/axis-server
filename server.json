@@ -1,1 +1,5 @@
-
+{
+  "version": 1,
+  "server": "https://example.trycloudflare.com",
+  "last_update": "2026-03-11"
+}
