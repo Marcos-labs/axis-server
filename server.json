@@ -1,14 +1,3 @@
 {
-  "server": "https://management-jonathan-whenever-cell.trycloudflare.com",
-  "api_version": "v1",
-  "socket_version": "7.0.0",
-  "maintenance": false,
-  "nodes": [
-    {
-      "id": "termux-master",
-      "region": "local-android",
-      "status": "active"
-    }
-  ],
-  "last_update": "2026-03-19T12:00:00Z"
+  "server": "https://management-jonathan-whenever-cell.trycloudflare.com"
 }
